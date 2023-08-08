@@ -7,6 +7,11 @@ I'm a passionate web developer with a background in Physics and a love for explo
 - 🎓 I hold a degree in Physics, which fuels my curiosity and analytical thinking.
 - 🌌 Astronomy enthusiast who enjoys gazing at the stars and pondering the mysteries of the cosmos.
 
+I also solve daily challenges on iCodeThis. Check out my profile [here](https://icodethis.com/Chiragm999)
+
+Check Out My Latest Blog Post 👇 <br>
+[Debouncing in React: Unleashing the Power of Efficient API Calls](https://dev.to/chiragm999/debouncing-in-react-unleashing-the-power-of-efficient-api-calls-56m9)
+
 ## Tech Stack
 
 ### Languages/Databases
